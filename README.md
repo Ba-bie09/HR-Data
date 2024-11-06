@@ -1,6 +1,6 @@
-## Dashboards on the HR Data File
+# Dashboards on the HR Data File
 # This is a step by step classwork
 
-![Final Dash](https://github.com/user-attachments/assets/7c371f90-8f23-4d85-9a78-16d4251a164a)
 
+![Final Dash](https://github.com/user-attachments/assets/04612569-b36c-4e06-8c70-eee3986e627a)
 
